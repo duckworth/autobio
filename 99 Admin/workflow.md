@@ -19,33 +19,38 @@
 
 ## Transcript Promotion
 
-1. Review new notes in `00 Inbox/`.
+1. Review new notes in [[00 Inbox]].
 2. Keep, retitle, and tag the worthwhile ones.
 3. Move untouched keepers into `01 Raw Transcripts/`.
-4. Move cleaned versions into `02 Clean Transcripts/`.
-5. Use `99 Admin/review-checklist.md` during this step.
+4. Move cleaned versions into [[02 Clean Transcripts]].
+5. Use [[99 Admin/review-checklist|Review Checklist]] during this step.
 
 ## Structured Extraction
 
 From cleaned transcripts:
 
-- update `03 Timeline/master-timeline.md`
-- add unresolved chronology to `03 Timeline/open-questions.md`
+- update [[03 Timeline/master-timeline|Master Timeline]]
+- add unresolved chronology to [[03 Timeline/open-questions|Open Questions]]
 - create or update notes in `04 People/`
 - create or update notes in `05 Places/`
 - create or update notes in `06 Themes/`
-- add follow-up prompts to `99 Admin/gap-log.md`
+- add follow-up prompts to [[99 Admin/gap-log|Gap Log]]
 
 ## Drafting
 
-- Build chapter fragments in `07 Chapters/` only after transcript cleanup and structured extraction.
-- Track active chapter candidates in `07 Chapters/chapter-plan.md`.
+- Build chapter fragments in [[07 Chapters]] only after transcript cleanup and structured extraction.
+- Track active chapter candidates in [[07 Chapters/chapter-plan|Chapter Plan]].
 - Commit the vault at least weekly.
 
 ## Management Notes
 
-- `99 Admin/dashboard.md`: current focus and weekly control panel
-- `99 Admin/gap-log.md`: missing details and future recording prompts
-- `99 Admin/review-checklist.md`: transcript processing checklist
-- `03 Timeline/open-questions.md`: unresolved chronology
-- `07 Chapters/chapter-plan.md`: chapter candidate pipeline
+- [[99 Admin/dashboard|Dashboard]]: current focus and weekly control panel
+- [[99 Admin/gap-log|Gap Log]]: missing details and future recording prompts
+- [[99 Admin/review-checklist|Review Checklist]]: transcript processing checklist
+- [[03 Timeline/open-questions|Open Questions]]: unresolved chronology
+- [[07 Chapters/chapter-plan|Chapter Plan]]: chapter candidate pipeline
+
+## Linking Rule
+
+- Use Obsidian wikilinks like `[[03 Timeline/master-timeline|Master Timeline]]` for internal note references.
+- Do not use backticked file paths for note-to-note references when the intent is navigation inside Obsidian.

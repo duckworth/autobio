@@ -19,11 +19,11 @@ This repository is set up as the Obsidian vault for the autobiography project.
 
 ## Project Management Notes
 
-- `99 Admin/dashboard.md`: weekly control panel
-- `99 Admin/gap-log.md`: story gaps and follow-up memo prompts
-- `99 Admin/review-checklist.md`: inbox and cleanup checklist
-- `03 Timeline/open-questions.md`: unresolved chronology
-- `07 Chapters/chapter-plan.md`: chapter candidate tracker
+- [[99 Admin/dashboard|Dashboard]]: weekly control panel
+- [[99 Admin/gap-log|Gap Log]]: story gaps and follow-up memo prompts
+- [[99 Admin/review-checklist|Review Checklist]]: inbox and cleanup checklist
+- [[03 Timeline/open-questions|Open Questions]]: unresolved chronology
+- [[07 Chapters/chapter-plan|Chapter Plan]]: chapter candidate tracker
 
 ## Prompt Workflow
 
@@ -46,7 +46,7 @@ Use prompts for different jobs:
 4. Record a short memo on iPhone.
 5. Either drag the file into `pipeline/incoming-audio/` or import the newest synced Voice Memo with `./scripts/autobio-transcribe import-voice-memos --latest 1`.
 6. Run `./scripts/autobio-transcribe process`.
-7. Confirm a Markdown note appears in `00 Inbox/`.
+7. Confirm a Markdown note appears in [[00 Inbox]].
 
 ## Commands
 
@@ -113,6 +113,13 @@ The intended drafting model is:
 6. draft chapters only from clusters of grounded notes
 
 That keeps the story cohesive by improving structure and recall, not by inventing connective tissue.
+
+## Obsidian Linking
+
+Internal note references inside the vault should use Obsidian wikilinks.
+
+- Good: `[[03 Timeline/master-timeline|Master Timeline]]`
+- Not for navigation: `` `03 Timeline/master-timeline.md` ``
 
 ## First Commit Scope
 

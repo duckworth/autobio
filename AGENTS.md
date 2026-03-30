@@ -23,6 +23,8 @@ This repository is an Obsidian vault plus a local transcription/import pipeline 
 - Prefer renaming transcript notes only after human review.
 - Preserve provenance in frontmatter when moving or renaming notes.
 - Keep transcript cleanup light. Do not invent facts, chronology, or dialogue.
+- Use Obsidian wikilinks for internal note references, for example `[[03 Timeline/master-timeline|Master Timeline]]`.
+- Do not use backticked file paths when the intent is to create clickable note links inside the vault.
 
 ## Commands
 
@@ -42,7 +44,7 @@ This repository is an Obsidian vault plus a local transcription/import pipeline 
 
 ## Content Management
 
-- Use `99 Admin/review-checklist.md` when processing Inbox notes.
-- Track unresolved chronology in `03 Timeline/open-questions.md`.
-- Track missing details and future memo prompts in `99 Admin/gap-log.md`.
-- Track drafting candidates in `07 Chapters/chapter-plan.md`.
+- Use [[99 Admin/review-checklist|Review Checklist]] when processing Inbox notes.
+- Track unresolved chronology in [[03 Timeline/open-questions|Open Questions]].
+- Track missing details and future memo prompts in [[99 Admin/gap-log|Gap Log]].
+- Track drafting candidates in [[07 Chapters/chapter-plan|Chapter Plan]].

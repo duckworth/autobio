@@ -7,6 +7,7 @@ Track chapter candidates separately from raw transcript intake.
 | Chapter | Core Period or Theme | Supporting Notes | Missing Material | Status |
 | --- | --- | --- | --- | --- |
 | Chapter 01 | | | | candidate |
+| Chapter 02 | Childhood through early programming years | [[00 Inbox/2026-03-30_1705_battery-ridge-dr-2|Battery Ridge Dr 2]]; [[02 Clean Transcripts/1975-to-early-programming-years|1975 To Early Programming Years]] | exact move chronology; Florida years detail; Brooklyn Music continuation; stronger place detail | researching |
 
 ## Status Guide
 

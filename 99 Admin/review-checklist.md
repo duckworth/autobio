@@ -1,6 +1,6 @@
 # Review Checklist
 
-Use this when processing a transcript out of `00 Inbox/`.
+Use this when processing a transcript out of [[00 Inbox]].
 
 ## Triage
 
@@ -18,15 +18,15 @@ Use this when processing a transcript out of `00 Inbox/`.
 
 ## Extraction
 
-- [ ] Add timeline facts to `03 Timeline/master-timeline.md`
-- [ ] Add unresolved chronology to `03 Timeline/open-questions.md`
+- [ ] Add timeline facts to [[03 Timeline/master-timeline|Master Timeline]]
+- [ ] Add unresolved chronology to [[03 Timeline/open-questions|Open Questions]]
 - [ ] Update or create people notes
 - [ ] Update or create place notes
 - [ ] Update or create theme notes
 
 ## Gap Handling
 
-- [ ] Add unanswered questions to `99 Admin/gap-log.md`
+- [ ] Add unanswered questions to [[99 Admin/gap-log|Gap Log]]
 - [ ] Turn each meaningful gap into a specific future memo prompt
 - [ ] Mark whether the transcript should trigger an immediate follow-up recording
 

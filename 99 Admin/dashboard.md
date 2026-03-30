@@ -19,11 +19,11 @@ Use this as the project control panel.
 
 ## This Week
 
-- [ ] Review every note in `00 Inbox/`
+- [ ] Review every note in [[00 Inbox]]
 - [ ] Promote the strongest transcripts
-- [ ] Update `03 Timeline/master-timeline.md`
-- [ ] Add new gaps to `99 Admin/gap-log.md`
-- [ ] Choose one chapter candidate in `07 Chapters/chapter-plan.md`
+- [ ] Update [[03 Timeline/master-timeline|Master Timeline]]
+- [ ] Add new gaps to [[99 Admin/gap-log|Gap Log]]
+- [ ] Choose one chapter candidate in [[07 Chapters/chapter-plan|Chapter Plan]]
 - [ ] Commit the vault
 
 ## Recent Wins
