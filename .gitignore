@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+*.egg-info/
+**/__pycache__/
+*.pyc
+.DS_Store
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+99 Admin/voice-memos-import-state.json
+
+# Runtime pipeline folders
+pipeline/incoming-audio/*
+pipeline/processed-audio/*
+pipeline/failed-audio/*
+!pipeline/incoming-audio/.gitkeep
+!pipeline/processed-audio/.gitkeep
+!pipeline/failed-audio/.gitkeep
