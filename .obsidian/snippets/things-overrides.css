@@ -1,0 +1,21 @@
+body {
+  /* --pink: white !important;  */
+  /* --h3-color: hsl(215, 15%, 55%);
+  --h4-color: hsl(215, 15%, 50%);
+  --h5-color: hsl(215, 15%, 45%);
+  --h6-color: var(--text-muted);
+
+  --strong-color: hsl(215, 15%, 55%);
+  --em-color: hsl(215, 15%, 55%);
+  --quote-color: hsl(215, 15%, 50%);
+   */
+   --h3-color: #5a8ac6;   
+   --h4-color: #d4a85c;   
+   --h5-color: #c75e5e;   
+   --h6-color: var(--text-muted);
+ 
+   /* A subtle muted purple instead of pink */
+   --strong-color: #b3a2c9; 
+   --em-color: #b3a2c9;    
+   --quote-color: #4a9a9d;
+}

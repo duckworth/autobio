@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "09 Audio Archive",
+  "defaultViewMode": "source",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "promptDelete": true,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "tabSize": 2,
+  "useTab": false,
+  "vimMode": true
+}

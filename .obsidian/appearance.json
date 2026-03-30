@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "baseFontSize": 14,
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "things-overrides",
+    "line-length"
+  ],
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "textFontFamily": "JetBrains Mono",
+  "theme": "obsidian",
+  "translucency": false
+}
