@@ -1,0 +1,20 @@
+#!/bin/sh
+set -eu
+
+PROJECT_DIR=$(CDPATH= cd -- "$(dirname "$0")/.." && pwd)
+VAULT_DIR=$(CDPATH= cd -- "$PROJECT_DIR/.." && pwd)
+
+if [ -n "${AUTOBIO_PYTHON_BIN:-}" ]; then
+  PYTHON_BIN=$AUTOBIO_PYTHON_BIN
+elif [ -x "$PROJECT_DIR/.venv/bin/python" ]; then
+  PYTHON_BIN=$PROJECT_DIR/.venv/bin/python
+else
+  PYTHON_BIN=$VAULT_DIR/.venv/bin/python
+fi
+
+if [ ! -x "$PYTHON_BIN" ]; then
+  echo "Missing Python runtime at $PYTHON_BIN. Run uv --project _project sync first." >&2
+  exit 1
+fi
+
+exec "$PYTHON_BIN" "$PROJECT_DIR/src/autobio_pipeline/cli.py" "$@"

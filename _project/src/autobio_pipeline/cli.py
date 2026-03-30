@@ -84,7 +84,11 @@ class VoiceMemoRecord:
 
 
 def repo_root() -> Path:
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[3]
+
+
+def project_root() -> Path:
+    return repo_root() / "_project"
 
 
 def load_dotenv(dotenv_path: Path) -> None:
@@ -103,6 +107,7 @@ def load_dotenv(dotenv_path: Path) -> None:
 
 def settings_from_env() -> Settings:
     root = Path(os.environ.get("AUTOBIO_VAULT_ROOT", repo_root())).expanduser().resolve()
+    project = project_root()
     voice_memos_dir = Path(
         os.environ.get(
             "AUTOBIO_VOICE_MEMOS_RECORDINGS_DIR",
@@ -113,13 +118,13 @@ def settings_from_env() -> Settings:
         vault_root=root,
         inbox_dir=root / "00 Inbox",
         incoming_dir=Path(
-            os.environ.get("AUTOBIO_INCOMING_DIR", root / "pipeline" / "incoming-audio")
+            os.environ.get("AUTOBIO_INCOMING_DIR", project / "pipeline" / "incoming-audio")
         ).expanduser(),
         processed_dir=Path(
-            os.environ.get("AUTOBIO_PROCESSED_DIR", root / "pipeline" / "processed-audio")
+            os.environ.get("AUTOBIO_PROCESSED_DIR", project / "pipeline" / "processed-audio")
         ).expanduser(),
         failed_dir=Path(
-            os.environ.get("AUTOBIO_FAILED_DIR", root / "pipeline" / "failed-audio")
+            os.environ.get("AUTOBIO_FAILED_DIR", project / "pipeline" / "failed-audio")
         ).expanduser(),
         session_log=root / "99 Admin" / "session-log.md",
         model=os.environ.get("AUTOBIO_TRANSCRIPTION_MODEL", "gpt-4o-transcribe"),
@@ -362,7 +367,9 @@ def process_one(client: OpenAI, settings: Settings, audio_path: Path) -> None:
 def process_batch(settings: Settings) -> int:
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set. Copy .env.example to .env and add your key.")
+        raise RuntimeError(
+            "OPENAI_API_KEY is not set. Copy _project/.env.example to .env and add your key."
+        )
 
     client = OpenAI(api_key=api_key)
     processed_count = 0

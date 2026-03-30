@@ -12,8 +12,8 @@ This repository is an Obsidian vault plus a local transcription/import pipeline 
 - `07 Chapters/` holds chapter planning and draft material.
 - `08 Prompts/` holds reusable prompt templates.
 - `99 Admin/` holds workflow, tracking, and review notes.
-- `pipeline/` holds local runtime intake folders and should not be treated as durable source content.
-- `src/autobio_pipeline/cli.py` is the main automation entry point.
+- `_project/` holds local tooling, runtime folders, and Python project files.
+- `_project/src/autobio_pipeline/cli.py` is the main automation entry point.
 
 ## Working Rules
 
@@ -28,17 +28,17 @@ This repository is an Obsidian vault plus a local transcription/import pipeline 
 
 ## Commands
 
-- `uv sync`
-- `./scripts/autobio-transcribe config`
-- `./scripts/autobio-transcribe voice-memos-list`
-- `./scripts/autobio-transcribe import-voice-memos --latest 1`
-- `./scripts/autobio-transcribe process`
-- `./scripts/autobio-transcribe watch --import-voice-memos`
+- `uv --project _project sync`
+- `./_project/scripts/autobio-transcribe config`
+- `./_project/scripts/autobio-transcribe voice-memos-list`
+- `./_project/scripts/autobio-transcribe import-voice-memos --latest 1`
+- `./_project/scripts/autobio-transcribe process`
+- `./_project/scripts/autobio-transcribe watch --import-voice-memos`
 
 ## Commit Hygiene
 
 - Do not commit `.env`.
-- Do not commit audio files from `pipeline/`.
+- Do not commit audio files from `_project/pipeline/`.
 - Do not commit transient runtime state.
 - Commit vault structure, prompt templates, workflow docs, and code.
 

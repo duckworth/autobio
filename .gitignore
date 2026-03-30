@@ -1,5 +1,6 @@
 .env
 .venv/
+_project/.venv/
 __pycache__/
 *.egg-info/
 **/__pycache__/
@@ -11,9 +12,9 @@ __pycache__/
 99 Admin/voice-memos-import-state.json
 
 # Runtime pipeline folders
-pipeline/incoming-audio/*
-pipeline/processed-audio/*
-pipeline/failed-audio/*
-!pipeline/incoming-audio/.gitkeep
-!pipeline/processed-audio/.gitkeep
-!pipeline/failed-audio/.gitkeep
+_project/pipeline/incoming-audio/*
+_project/pipeline/processed-audio/*
+_project/pipeline/failed-audio/*
+!_project/pipeline/incoming-audio/.gitkeep
+!_project/pipeline/processed-audio/.gitkeep
+!_project/pipeline/failed-audio/.gitkeep

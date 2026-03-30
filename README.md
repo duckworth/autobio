@@ -15,7 +15,7 @@ This repository is set up as the Obsidian vault for the autobiography project.
 - `08 Prompts/`: reusable AI prompts for cleanup and drafting
 - `09 Audio Archive/`: optional long-term audio notes kept in the vault
 - `99 Admin/`: workflow, naming rules, and the session log
-- `pipeline/`: local intake folders for incoming, processed, and failed audio
+- `_project/`: local tooling, runtime pipeline folders, and Python project files
 
 ## Project Management Notes
 
@@ -40,23 +40,23 @@ Use prompts for different jobs:
 
 ## Quick Start
 
-1. Copy `.env.example` to `.env`.
+1. Copy `_project/.env.example` to `.env`.
 2. Put your OpenAI API key in `.env`.
-3. Install dependencies with `uv sync`.
+3. Install dependencies with `uv --project _project sync`.
 4. Record a short memo on iPhone.
-5. Either drag the file into `pipeline/incoming-audio/` or import the newest synced Voice Memo with `./scripts/autobio-transcribe import-voice-memos --latest 1`.
-6. Run `./scripts/autobio-transcribe process`.
+5. Either drag the file into `_project/pipeline/incoming-audio/` or import the newest synced Voice Memo with `./_project/scripts/autobio-transcribe import-voice-memos --latest 1`.
+6. Run `./_project/scripts/autobio-transcribe process`.
 7. Confirm a Markdown note appears in [[00 Inbox]].
 
 ## Commands
 
-- `./scripts/autobio-transcribe config`
-- `./scripts/autobio-transcribe voice-memos-list`
-- `./scripts/autobio-transcribe import-voice-memos --latest 1`
-- `./scripts/autobio-transcribe seed-voice-memos-state`
-- `./scripts/autobio-transcribe process`
-- `./scripts/autobio-transcribe watch`
-- `./scripts/autobio-transcribe watch --import-voice-memos`
+- `./_project/scripts/autobio-transcribe config`
+- `./_project/scripts/autobio-transcribe voice-memos-list`
+- `./_project/scripts/autobio-transcribe import-voice-memos --latest 1`
+- `./_project/scripts/autobio-transcribe seed-voice-memos-state`
+- `./_project/scripts/autobio-transcribe process`
+- `./_project/scripts/autobio-transcribe watch`
+- `./_project/scripts/autobio-transcribe watch --import-voice-memos`
 
 `watch --import-voice-memos` is the full phase-two path. On its first run it seeds the current Voice Memos library as already seen, then only imports future recordings.
 
@@ -82,11 +82,11 @@ The importer reads `CloudRecordings.db` to map filenames to the titles you see i
 
 Useful commands:
 
-- `./scripts/autobio-transcribe voice-memos-list`
-- `./scripts/autobio-transcribe import-voice-memos --latest 1`
-- `./scripts/autobio-transcribe import-voice-memos --match timeline --latest 3`
-- `./scripts/autobio-transcribe seed-voice-memos-state`
-- `./scripts/autobio-transcribe watch --import-voice-memos`
+- `./_project/scripts/autobio-transcribe voice-memos-list`
+- `./_project/scripts/autobio-transcribe import-voice-memos --latest 1`
+- `./_project/scripts/autobio-transcribe import-voice-memos --match timeline --latest 3`
+- `./_project/scripts/autobio-transcribe seed-voice-memos-state`
+- `./_project/scripts/autobio-transcribe watch --import-voice-memos`
 
 Recommended setup:
 
@@ -135,7 +135,7 @@ It should not depend on committed audio files, committed API keys, or committed 
 ## Setup Notes
 
 - The current repo root is the vault root.
-- Phase one keeps the intake folders inside the repo for simplicity.
-- If you later want cleaner operations, change the `AUTOBIO_*_DIR` values in `.env` to point at `~/AutobioPipeline/...`.
+- Non-note tooling lives under `_project/` so Obsidian Sync can exclude one folder.
+- The default intake folders now live under `_project/pipeline/`.
 - Audio files over 25 MB are rejected before upload.
 - Voice Memos import depends on the current macOS on-disk layout and database, which is practical but not an Apple-supported public API.

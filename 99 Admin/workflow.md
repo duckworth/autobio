@@ -13,9 +13,9 @@
 ## Intake
 
 - Drag new audio from Voice Memos on Mac into the configured incoming folder.
-- Or use `./scripts/autobio-transcribe import-voice-memos --latest 1` to pull the newest synced Voice Memo directly from the local Voice Memos storage folder.
-- Run `./scripts/autobio-transcribe process` for phase one.
-- Later, switch to `./scripts/autobio-transcribe watch --import-voice-memos` if you want the importer and transcriber to run together.
+- Or use `./_project/scripts/autobio-transcribe import-voice-memos --latest 1` to pull the newest synced Voice Memo directly from the local Voice Memos storage folder.
+- Run `./_project/scripts/autobio-transcribe process` for phase one.
+- Later, switch to `./_project/scripts/autobio-transcribe watch --import-voice-memos` if you want the importer and transcriber to run together.
 
 ## Transcript Promotion
 
