@@ -25,6 +25,19 @@ This repository is set up as the Obsidian vault for the autobiography project.
 - `03 Timeline/open-questions.md`: unresolved chronology
 - `07 Chapters/chapter-plan.md`: chapter candidate tracker
 
+## Prompt Workflow
+
+Use prompts for different jobs:
+
+- `cleanup.md`: lightly clean a transcript without changing facts
+- `timeline-extract.md`: pull chronology into the timeline spine
+- `people-extract.md`: build people notes from transcripts
+- `theme-extract.md`: identify recurring themes across notes
+- `gap-finder.md`: identify what is missing and why it matters
+- `recording-planner.md`: turn gaps and weak spots into concrete future Voice Memo tasks
+- `chapter-draft.md`: draft memoir prose only from clustered, grounded source material
+- `timeline-overview.md`: turn a big life sweep memo into a starter chronology
+
 ## Quick Start
 
 1. Copy `.env.example` to `.env`.
@@ -87,6 +100,19 @@ Recommended setup:
 Not every recording needs to be a single scene. One good early input is a broad timeline memo where you talk through the major periods of your life, moves, jobs, relationships, and turning points in rough order.
 
 Those overview memos are worth keeping. The transcript template includes a `Recording type` note so you can mark a transcript as `timeline` or `guidance` instead of treating everything as a story fragment.
+
+## Cohesion Without Hallucination
+
+The intended drafting model is:
+
+1. capture raw voice notes
+2. transcribe faithfully
+3. extract facts, chronology, people, places, and themes
+4. identify gaps explicitly
+5. create future recording prompts to fill those gaps
+6. draft chapters only from clusters of grounded notes
+
+That keeps the story cohesive by improving structure and recall, not by inventing connective tissue.
 
 ## First Commit Scope
 
