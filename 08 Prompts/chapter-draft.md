@@ -22,6 +22,7 @@ Rules:
 Writing target:
 - Produce clean memoir prose that feels cohesive because it is well-ordered, not because uncertainty has been erased.
 - Build coherence by arranging the material around chronology, cause and effect, emotional stakes, and turning points already present in the notes.
+- Prefer a strong slice, scene cluster, or thematic movement over trying to cover an entire life period exhaustively.
 - When memory is unclear, say so plainly and gracefully.
 
 After the draft, include:

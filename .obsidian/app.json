@@ -7,9 +7,12 @@
   "promptDelete": true,
   "readableLineLength": true,
   "showInlineTitle": false,
-  "spellcheck": true,
   "strictLineBreaks": false,
   "tabSize": 2,
   "useTab": false,
-  "vimMode": true
+  "spellcheck": true,
+  "vimMode": true,
+  "userIgnoreFilters": [
+    "_project/"
+  ]
 }

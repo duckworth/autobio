@@ -8,6 +8,8 @@ Use this as the project control panel.
 - Current life period under review:
 - Most useful recent transcript:
 - Next recording to make:
+- Memory that keeps resurfacing:
+- Current working lens or theme:
 
 ## Weekly Review
 
@@ -16,6 +18,8 @@ Use this as the project control panel.
 - Clean transcripts waiting for extraction:
 - Open gaps that block drafting:
 - Chapters currently in progress:
+- New memories captured this week:
+- Best scene captured this week:
 
 ## This Week
 
@@ -23,6 +27,7 @@ Use this as the project control panel.
 - [ ] Promote the strongest transcripts
 - [ ] Update [[03 Timeline/master-timeline|Master Timeline]]
 - [ ] Add new gaps to [[99 Admin/gap-log|Gap Log]]
+- [ ] Capture at least one recurring memory before it fades
 - [ ] Choose one chapter candidate in [[07 Chapters/chapter-plan|Chapter Plan]]
 - [ ] Commit the vault
 
@@ -36,6 +41,8 @@ Use this as the project control panel.
 - missing scene detail for:
 - relationships needing follow-up:
 - factual uncertainty that needs checking:
+- forcing polish too early in:
+- avoiding difficult but important material in:
 
 ## Next Actions
 

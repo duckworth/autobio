@@ -14,22 +14,25 @@ tags:
 ---
 
 # Summary
-Cleaned timeline note about living with your dad, meeting Samantha, and the transition into marriage and the Washington Avenue house around 2005.
+Cleaned timeline note about living with your dad, meeting Samantha through Match.com, and the transition into marriage and the Washington Avenue house between 2003 and 2005.
 
 # Clean Transcript
-Continuing on: I was living in Islip Terrace with my dad in an apartment when I met Samantha, my wife. We were together for about 18 months. Then we ended up buying my grandmother's house from my uncle on Washington Avenue in Islip Terrace. We got married in Turks and Caicos in 2005. We bought the house in 2005, though I still need to confirm the exact sequence.
+Continuing on: I was living in Islip Terrace with my dad in an apartment when I met Samantha, my wife. We met through Match.com, and our first date was September 20, 2003. We were together for about 18 months. Then we moved into my grandmother's house on Washington Avenue in Islip Terrace before formally buying it from my Uncle Bob, Robert Lemp, my father's brother. We got married in Turks and Caicos in 2005. We bought the house in 2005, though I still need to confirm the exact sequence around moving in, closing, and the wedding.
 
 # Editor Notes
 - Corrected likely place-name transcription from `Isoteris` to `Islip Terrace`.
-- Left the move-in versus purchase sequence uncertain because the source note is uncertain.
+- Incorporated later author clarifications recorded on 2026-03-31: met Samantha through Match.com; first date was September 20, 2003; the house was sold by Uncle Bob, Robert Lemp; you moved in before the formal purchase.
+- Left the move-in, purchase, and wedding sequence partially uncertain because the exact timing is still not fully anchored.
 
 # Extracted Facts
-- Living with dad in an apartment in Islip Terrace when you met Samantha.
-- Relationship with Samantha lasted about 18 months before the house transition.
+- Living with dad in an apartment on Bristol Street in Islip Terrace when you met Samantha.
+- Met Samantha through Match.com.
+- First date with Samantha was September 20, 2003.
+- Relationship with Samantha lasted about 18 months before moving into the house.
+- Moved into the Washington Avenue house before formally buying it.
+- Bought your grandmother's house from Uncle Bob, Robert Lemp, your father's brother.
 - Married Samantha in Turks and Caicos in 2005.
-- Bought your grandmother's house on Washington Avenue in 2005, subject to sequence confirmation.
+- Bought your grandmother's house on Washington Avenue in 2005, subject to exact sequence confirmation.
 
 # Open Questions
-- Did you move into the house before formally buying it?
-- Roughly what year did you meet Samantha?
-- Which uncle sold the house to you?
+- What was the exact sequence of first date, dating milestones, move-in, closing, and wedding between 2003 and 2005?

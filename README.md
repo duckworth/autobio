@@ -20,6 +20,7 @@ This repository is set up as the Obsidian vault for the autobiography project.
 ## Project Management Notes
 
 - [[99 Admin/dashboard|Dashboard]]: weekly control panel
+- [[99 Admin/project-principles|Project Principles]]: archive-first editorial rules
 - [[99 Admin/gap-log|Gap Log]]: story gaps and follow-up memo prompts
 - [[99 Admin/review-checklist|Review Checklist]]: inbox and cleanup checklist
 - [[03 Timeline/open-questions|Open Questions]]: unresolved chronology
@@ -100,6 +101,28 @@ Recommended setup:
 Not every recording needs to be a single scene. One good early input is a broad timeline memo where you talk through the major periods of your life, moves, jobs, relationships, and turning points in rough order.
 
 Those overview memos are worth keeping. The transcript template includes a `Recording type` note so you can mark a transcript as `timeline` or `guidance` instead of treating everything as a story fragment.
+
+## Archive First
+
+This project should treat memory as perishable.
+
+The working order is:
+
+1. capture
+2. organize
+3. interpret
+4. write
+
+The archive comes before the book. The immediate goal is not to force a polished autobiography out of rough memory. The immediate goal is to preserve as many usable memories, names, places, scenes, and clarifications as possible before they fade.
+
+That means:
+
+- record recurring memories quickly, even if they are rough
+- prefer specific scenes over broad life categories
+- separate truth preservation from prose polish
+- keep uncertainty visible instead of smoothing it away
+- let strong scenes and turning points shape chapters instead of forcing strict chronology too early
+- pace difficult material instead of forcing traumatic memories on schedule
 
 ## Cohesion Without Hallucination
 

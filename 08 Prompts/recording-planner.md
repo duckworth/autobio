@@ -21,6 +21,7 @@ For each suggested recording, provide:
 - `Priority:` `high`, `medium`, or `low`
 
 Focus on these kinds of gaps:
+- recurring memories that likely deserve to be preserved before they fade
 - missing chronology
 - weak transitions between life periods
 - underdeveloped scenes that need more sensory or situational detail the narrator can actually remember
@@ -32,9 +33,11 @@ Rules:
 - Do not guess at the missing facts.
 - Do not ask for impossible recall.
 - Ask for recordable prompts that the narrator could answer in 5 to 15 minutes.
+- Prefer prompts built around scenes, turning points, or recurring memories instead of broad life categories.
 - Prefer prompts that unlock multiple downstream notes or chapters.
 
 At the end, include:
 1. `Top three next recordings`
 2. `Questions to keep open` for items that may never be fully knowable
+3. `Possible chapter lens` if the material suggests a meaningful slice rather than a whole-life summary
 ```

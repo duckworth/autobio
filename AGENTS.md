@@ -23,6 +23,7 @@ This repository is an Obsidian vault plus a local transcription/import pipeline 
 - Prefer renaming transcript notes only after human review.
 - Preserve provenance in frontmatter when moving or renaming notes.
 - Keep transcript cleanup light. Do not invent facts, chronology, or dialogue.
+- Keep raw transcript notes unchanged. If the author later supplies a direct factual clarification, merge it into the clean note and label it as a later author clarification with the date.
 - Use Obsidian wikilinks for internal note references, for example `[[03 Timeline/master-timeline|Master Timeline]]`.
 - Do not use backticked file paths when the intent is to create clickable note links inside the vault.
 
