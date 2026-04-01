@@ -44,12 +44,14 @@ That run ended when the dot-com period collapsed. The company was running tight 
 - Corrected `Chris Don` to `Chris Donnan`.
 - Corrected likely place names and names where the transcript was clear enough to resolve them, including `Deer Park Avenue`, `Joe Natoli`, `Atomic Babies`, and `Globix`.
 - Preserved the approximate `1999 to 2001` range because the recording itself presents that period as approximate.
+- Added author clarification recorded on 2026-04-01: Media Weapon was created under or as part of the Brooklyn Music world, so this still functioned as one lived chapter in the same office at `57 Front St, Brooklyn` with many of the same people.
 
 # Extracted Facts
 - Reconnected with Chris Donnan through Brian Rath after seeing Chris on the Brooklyn Music website.
 - Initial Brooklyn visit led from shared music interests into programming and web conversations.
 - First Brooklyn Music work involved designing a realistic web-based music player using 3D Studio Max and Photoshop.
 - Met Joe Natoli at Brooklyn Music and got an entry-level job doing web design and web programming.
+- Media Weapon later existed within or alongside the same Brooklyn Music world, in the same office at `57 Front St, Brooklyn`, with overlapping people and work.
 - Moved from boatyard work and Suffolk Community College into a Brooklyn-based early web career.
 - Built electronic music products including `e-Natronic`, an electronic music search engine and portal.
 - Ran infrastructure on self-built servers and later in a Globix co-location facility.

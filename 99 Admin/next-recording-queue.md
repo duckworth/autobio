@@ -11,7 +11,9 @@ Open this note when you want the next best Voice Memo topics.
   - when Brooklyn Music started running out of money
   - how bad the financial pressure got
   - how you got from there to the next job
-  - what company came next
+  - how the Brooklyn Music / Media Weapon period at `57 Front St` actually worked
+  - when the chapter ended
+  - how Publishers Clearing House happened next
   - what your title, pay, and responsibilities were
   - how that changed your life
 
