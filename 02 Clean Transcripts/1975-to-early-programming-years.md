@@ -25,19 +25,19 @@ I grew up mainly in Islip Terrace, New York. Both my maternal and paternal grand
 
 One of the earliest places I remember living was at my Aunt Margie's house in Islip Terrace, on Carlton Avenue across from the 7-Eleven. My mother and I lived in a basement apartment there before I started school.
 
-I remember going to kindergarten at what sounds like Connecticut Elementary in Islip Terrace. Around that time, we temporarily lived on Maplewood Avenue in Islip Terrace in a split-level apartment with a sliding back door. I remember a teacher named Miss Killerman and the letter people on the wall.
+I remember going to kindergarten, likely in the `1980-1981` school year, at what sounds like Connecticut Elementary in Islip Terrace. Around that time, we temporarily lived on Maplewood Avenue in Islip Terrace in a split-level apartment with a sliding back door. I remember a teacher named Miss Killerman and the letter people on the wall.
 
-In first grade I went to Ruth C. Kinney, or RCK, in Islip Terrace. I stayed there until about third grade. Around third grade we moved to Islip and lived in a basement apartment under my Aunt Joanne's house. Her children, Stacy and Mitchell, lived upstairs.
+In first grade, likely `1981-1982`, I went to Ruth C. Kinney, or RCK, in Islip Terrace. I stayed there until about third grade. Around third grade, likely `1983-1984`, we moved to Islip and lived in a basement apartment under my Aunt Joanne's house. Her children, Stacy and Mitchell, lived upstairs.
 
 Around third grade I also moved to Florida for a while with my mother and stepfather, William Walsh, known as Billy, who worked on swimming pools. I believe we lived in Dunedin, in the St. Pete area, and rented a duplex. I remember moving there, getting new furniture, and drawing an imaginary world on paper taped to my bedroom wall.
 
-After that I moved back to New York and returned to RCK for fourth and fifth grade. In sixth grade I was still in Islip Terrace at RCK, and I remember having Mr. Munn in a portable classroom outside the school.
+After that I moved back to New York and returned to RCK for fourth and fifth grade, likely `1984-1986`. In sixth grade, likely `1986-1987`, I was still in Islip Terrace at RCK, and I remember having Mr. Munn in a portable classroom outside the school.
 
-I started seventh grade at Islip Terrace Junior High. Around seventh grade I moved to Florida with my dad, who had gone there to help build a house. My aunt and uncle Bobby and Karen were building an investment property in Boca Grande on Gasparilla Island.
+I started seventh grade, likely `1987-1988`, at Islip Terrace Junior High. Around seventh grade I moved to Florida with my dad, who had gone there to help build a house. My aunt and uncle Bobby and Karen were building an investment property in Boca Grande on Gasparilla Island.
 
 I moved down there with my dad, Uncle Jerry, and a group of construction-worker friends. At first they stayed at a place called the Egg and I, a small hotel on the way to Gasparilla Island in Englewood. Later they rented a house in Port Charlotte, in the Gardens of Gulf Cove. I remember people including Paul Metcalf, Freddie Vargas, and Bob Jean being around that period.
 
-I lived in Florida around 1989. I went to middle school in the Englewood area and then to Lemon Bay High School for ninth grade. After ninth grade I moved back to New York, returned to East Islip High School, and finished high school there.
+I lived in Florida around `1987-1990`. I went to middle school in the Englewood area and then to Lemon Bay High School for ninth grade in `1989-1990`. After ninth grade I moved back to New York, returned to East Islip High School for tenth through twelfth grade in `1990-1993`, and finished high school there, graduating in 1993.
 
 When I came back to New York, my mother was with Rick DeRosa, who was effectively my stepdad even though they never married. Before that, my earlier stepfather Billy had died in a drunk driving accident on Lakeview Road in Sayville, though I need to confirm the date.
 
@@ -59,6 +59,7 @@ My friend Brian Rath spotted our old friend Chris Donnan working for Brooklyn Mu
 - Corrected `Bayshore` to `Bay Shore`.
 - Kept `Connecticut Elementary` as spoken because the exact school name may need verification.
 - Kept `Fawcett Road` as the most likely spelling based on the transcript, but this should be confirmed.
+- Added school-year anchors inferred from your February 3, 1975 birth date and 1993 graduation. Those year ranges are inference, not direct recalled dates.
 - The source note ends abruptly at the start of the Brooklyn Music chapter, so this cleaned note also stops there.
 
 # Extracted Facts
@@ -66,13 +67,13 @@ My friend Brian Rath spotted our old friend Chris Donnan working for Brooklyn Mu
 - Mother: Kathleen Anderson. Father: John Edward Lemp Sr. (`Jack`).
 - Grew up mainly in Islip Terrace.
 - Early childhood living situations included Aunt Margie's house on Carlton Avenue and an apartment on Maplewood Avenue.
-- Attended kindergarten in Islip Terrace, then Ruth C. Kinney / RCK for early elementary school.
-- Lived under Aunt Joanne's house in Islip around third grade.
+- Attended kindergarten in `1980-1981` in Islip Terrace, then Ruth C. Kinney / RCK for early elementary school.
+- Lived under Aunt Joanne's house in Islip around third grade in `1983-1984`.
 - Moved to Florida with mother and Billy during elementary school, likely around third grade, in the Dunedin / St. Pete area.
-- Returned to New York for fourth through sixth grade.
-- Started seventh grade in Islip Terrace Junior High.
-- Moved to Florida with father around 1989 and attended school in the Englewood area, then Lemon Bay High School for ninth grade.
-- Returned to New York after ninth grade and graduated from East Islip High School.
+- Returned to New York for fourth through sixth grade in `1984-1987`.
+- Started seventh grade in Islip Terrace Junior High in `1987-1988`.
+- Moved to Florida with father around the `1987-1988` school year and attended school in the Englewood area, then Lemon Bay High School for ninth grade in `1989-1990`.
+- Returned to New York after ninth grade and graduated from East Islip High School in 1993.
 - Lived on Andrew Avenue in Islip Terrace through high school with mother and Rick DeRosa.
 - Attended SUNY Farmingdale for architecture after high school.
 - Spent time in Kissimmee with father and Darryl Diamond.
@@ -84,6 +85,6 @@ My friend Brian Rath spotted our old friend Chris Donnan working for Brooklyn Mu
 # Open Questions
 - What is the exact kindergarten / elementary school name that sounds like `Connecticut Elementary`?
 - What year did Billy Walsh die?
-- What were the exact years for the moves between New York and Florida in childhood and adolescence?
+- What were the exact months or seasons for the moves between New York and Florida in childhood and adolescence?
 - What is the correct road name for the house near the boatyard?
 - What happened immediately after starting at Brooklyn Music?

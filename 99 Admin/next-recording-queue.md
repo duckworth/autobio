@@ -4,45 +4,45 @@ Open this note when you want the next best Voice Memo topics.
 
 ## Right Now
 
-1. `Brooklyn Music And What Came Next`
-- Why now: this is the biggest missing bridge between early jobs and the first real programming / digital work chapter.
+1. `Brooklyn Music To First Software Job`
+- Why now: the Brooklyn Music chapter is now strong, but the exact transition out of the dot-com crash into your first next software job is still the biggest missing career bridge.
 - Best format: `story` with some timeline anchoring.
 - Cover:
-  - how Chris Donnan brought you in
-  - what the job actually was
-  - what the commute and daily routine were like
-  - what you learned there
-  - who mattered
-  - what came next after Brooklyn Music
+  - when Brooklyn Music started running out of money
+  - how bad the financial pressure got
+  - how you got from there to the next job
+  - what company came next
+  - what your title, pay, and responsibilities were
+  - how that changed your life
 
-2. `Childhood Moves Timeline`
-- Why now: this strengthens the opening spine of the memoir and reduces early chronology drift.
-- Best format: `timeline`.
+2. `Florida With Dad On Gasparilla Build`
+- Why now: the broad childhood timeline is much stronger now, and this is the richest unresolved teenage-era story cluster inside it.
+- Best format: `story`.
 - Cover:
-  - each address in order
-  - your school grade at each stop
-  - who you lived with
-  - why each move happened
-  - what changed after each move
+  - who was there when you arrived
+  - where you lived first
+  - what the job site and build were actually like
+  - who cycled through the house
+  - what daily life felt like
+  - why the family situation became so unstable
 
-3. `Meeting Samantha To Wedding Timeline`
-- Why now: this is close to resolved and one focused memo should tighten it substantially.
-- Best format: `timeline`.
+3. `Port Washington Rentals`
+- Why now: the Samantha and wedding arc now has strong chronology, but the Port Washington period is still thin and likely carries the best scene material for early married life.
+- Best format: `story`.
 - Cover:
-  - Match.com
-  - first date on September 20, 2003
-  - where you were living then
-  - the Port Washington rentals
-  - when you moved into Washington Avenue
-  - when you bought the house
-  - how the wedding fit into the sequence
+  - the two rentals in order
+  - what they looked and felt like
+  - how money felt then
+  - what everyday life with Samantha was like
+  - why you left each place
+  - what pushed you toward Washington Avenue
 
 ## Next Tier
 
 - `Mechanic To Programmer`
+- `Meeting Samantha To Wedding Timeline`
+- `Childhood Moves Timeline`
 - `Florida With Mom And Billy`
-- `Florida With Dad On Gasparilla Build`
-- `Port Washington Rentals`
 - `Washington Avenue House Layout And Family`
 
 ## Recording Rule
